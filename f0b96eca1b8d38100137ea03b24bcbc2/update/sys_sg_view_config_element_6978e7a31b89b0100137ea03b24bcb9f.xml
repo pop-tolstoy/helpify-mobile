@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>srp_id_location_2_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 06:29:05</sys_created_on>
+        <sys_id>6978e7a31b89b0100137ea03b24bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>srp_id_location_2_element</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_6978e7a31b89b0100137ea03b24bcb9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 06:29:05</sys_updated_on>
+        <view_config display_value="rem tab Form View Config">d81cf40b1b0d30100137ea03b24bcb08</view_config>
+        <view_template_slot display_value="srp_id_location_2">9d34fef4536310103738ddeeff7b124c</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

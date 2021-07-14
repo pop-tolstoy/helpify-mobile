@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">ff6792cb1b0170100137ea03b24bcb33</icon>
+        <name>report</name>
+        <report display_value="demo">0390b58f1b8d30100137ea03b24bcbb4</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-04 11:18:06</sys_created_on>
+        <sys_id>f36792cb1b0170100137ea03b24bcb38</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>report</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_f36792cb1b0170100137ea03b24bcb38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 05:13:06</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>report</type>
+        <use_last_point>false</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="DELETE" query="documentkey=f36792cb1b0170100137ea03b24bcb38"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</application>
+        <file_path/>
+        <instance_id>ff0f938adb83e450431011f8489619b9</instance_id>
+        <instance_name>dev108296</instance_name>
+        <name>sys_sg_chart_screen_f36792cb1b0170100137ea03b24bcb38</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen"><sys_sg_chart_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">ff6792cb1b0170100137ea03b24bcb33</icon><name>report</name><report display_value="demo">0390b58f1b8d30100137ea03b24bcbb4</report><roles_override/><sys_class_name>sys_sg_chart_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-04 11:18:06</sys_created_on><sys_id>f36792cb1b0170100137ea03b24bcb38</sys_id><sys_mod_count>3</sys_mod_count><sys_name>report</sys_name><sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package><sys_policy/><sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope><sys_update_name>sys_sg_chart_screen_f36792cb1b0170100137ea03b24bcb38</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-06 05:13:06</sys_updated_on><tool_tip>true</tool_tip><type>report</type><use_last_point>false</use_last_point><widget/></sys_sg_chart_screen><sys_translated_text action="delete_multiple" query="documentkey=f36792cb1b0170100137ea03b24bcb38"/></record_update>]]></payload>
+        <payload_hash>1291815190</payload_hash>
+        <record_name>report</record_name>
+        <reverted_from/>
+        <source>34b9e24e1b8d38100137ea03b24bcbec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 05:13:06</sys_created_on>
+        <sys_id>3417db671b49b0100137ea03b24bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a7a3bf0980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 05:13:06</sys_updated_on>
+        <type>Chart screen</type>
+        <update_guid>bc17db67a049b0108026ac89e069a1d1</update_guid>
+        <update_guid_history>bc17db67a049b0108026ac89e069a1d1:1291815190,341943eb5c09b01079d6de16b0cd0c3b:-1764608331,9fc7120f73017010491fae7175caadd3:1291815190,8477decb8a01701033c94d865f669de2:491146315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 08:09:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_chart_screen">sys_sg_chart_screen</sys_db_object>
+        <sys_id>63d6fd6072254ba09e79c7c7040bc100</sys_id>
+        <sys_metadata>f36792cb1b0170100137ea03b24bcb38</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>report</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_scope_delete display_value="">042de74b3585431180d1ddd4215d5209</sys_scope_delete>
+        <sys_update_name>sys_sg_chart_screen_f36792cb1b0170100137ea03b24bcb38</sys_update_name>
+        <sys_update_version display_value="sys_sg_chart_screen_f36792cb1b0170100137ea03b24bcb38">3417db671b49b0100137ea03b24bcbd2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 08:09:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

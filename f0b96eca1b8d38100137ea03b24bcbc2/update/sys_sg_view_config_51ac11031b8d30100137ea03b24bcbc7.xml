@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>map View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-04 07:01:15</sys_created_on>
+        <sys_id>51ac11031b8d30100137ea03b24bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>map View Config</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_view_config_51ac11031b8d30100137ea03b24bcbc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-04 07:01:15</sys_updated_on>
+        <table>sys_user</table>
+        <template display_value="Map">eae03e5c41a71010f877183fc9b8be24</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=51ac11031b8d30100137ea03b24bcbc7"/>
+</record_update>

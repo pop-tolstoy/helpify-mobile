@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="DELETE">
+        <description>es-button-slot-1_TextColor</description>
+        <name display_value="TextColor">773f99c2b7321010df65f6efce11a9d7</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 06:28:32</sys_created_on>
+        <sys_id>755827a31b89b0100137ea03b24bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>773f99c2b7321010df65f6efce11a9d7</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_755827a31b89b0100137ea03b24bcbf0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 06:28:32</sys_updated_on>
+        <translated_value/>
+        <value>#1f2214</value>
+        <view_config_element display_value="es-button-slot-1_element">795827a31b89b0100137ea03b24bcbeb</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="DELETE" query="documentkey=755827a31b89b0100137ea03b24bcbf0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</application>
+        <file_path/>
+        <instance_id>ff0f938adb83e450431011f8489619b9</instance_id>
+        <instance_name>dev108296</instance_name>
+        <name>sys_sg_view_config_element_attribute_755827a31b89b0100137ea03b24bcbf0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute"><sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE"><description>es-button-slot-1_TextColor</description><name display_value="TextColor">773f99c2b7321010df65f6efce11a9d7</name><sys_class_name>sys_sg_view_config_element_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-06 06:28:32</sys_created_on><sys_id>755827a31b89b0100137ea03b24bcbf0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>773f99c2b7321010df65f6efce11a9d7</sys_name><sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package><sys_policy/><sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope><sys_update_name>sys_sg_view_config_element_attribute_755827a31b89b0100137ea03b24bcbf0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-06 06:28:32</sys_updated_on><translated_value/><value>#1f2214</value><view_config_element display_value="es-button-slot-1_element">795827a31b89b0100137ea03b24bcbeb</view_config_element></sys_sg_view_config_element_attribute><sys_translated_text action="delete_multiple" query="documentkey=755827a31b89b0100137ea03b24bcbf0"/></record_update>]]></payload>
+        <payload_hash>-1237081508</payload_hash>
+        <record_name>773f99c2b7321010df65f6efce11a9d7</record_name>
+        <reverted_from/>
+        <source>34b9e24e1b8d38100137ea03b24bcbec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 06:28:32</sys_created_on>
+        <sys_id>395827a31b89b0100137ea03b24bcbf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a7a8102410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 06:28:32</sys_updated_on>
+        <type>View Config Element Attribute</type>
+        <update_guid>715827a36289b0108ba6afee1e645bf2</update_guid>
+        <update_guid_history>715827a36289b0108ba6afee1e645bf2:-1237081508</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 06:29:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element_attribute">sys_sg_view_config_element_attribute</sys_db_object>
+        <sys_id>17f72d37befd4894a03585e202e8edb9</sys_id>
+        <sys_metadata>755827a31b89b0100137ea03b24bcbf0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>773f99c2b7321010df65f6efce11a9d7</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_scope_delete display_value="">042de74b3585431180d1ddd4215d5209</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_attribute_755827a31b89b0100137ea03b24bcbf0</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_attribute_755827a31b89b0100137ea03b24bcbf0">395827a31b89b0100137ea03b24bcbf2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 06:29:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

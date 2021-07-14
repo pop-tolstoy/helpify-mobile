@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>tryingmap Form Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 06:23:57</sys_created_on>
+        <sys_id>93e0cf5a1b8978100137ea03b24bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tryingmap Form Icon</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_icon_93e0cf5a1b8978100137ea03b24bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 06:23:57</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

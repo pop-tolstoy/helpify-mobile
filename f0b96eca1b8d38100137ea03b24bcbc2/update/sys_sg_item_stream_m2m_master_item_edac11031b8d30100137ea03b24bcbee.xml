@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="map Item Stream">91ac9dcf1b4d30100137ea03b24bcb56</item_stream>
+        <master_item display_value="map Main Item">2dac11031b8d30100137ea03b24bcbd9</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-04 07:01:15</sys_created_on>
+        <sys_id>edac11031b8d30100137ea03b24bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_edac11031b8d30100137ea03b24bcbee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-04 07:01:15</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

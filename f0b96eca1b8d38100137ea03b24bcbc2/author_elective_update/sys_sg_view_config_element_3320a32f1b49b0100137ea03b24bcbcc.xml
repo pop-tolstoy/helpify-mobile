@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>text_04_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 05:52:55</sys_created_on>
+        <sys_id>3320a32f1b49b0100137ea03b24bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_04_element</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3320a32f1b49b0100137ea03b24bcbcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 05:52:55</sys_updated_on>
+        <view_config display_value="rem tab View Config">101cb40b1b0d30100137ea03b24bcb01</view_config>
+        <view_template_slot display_value="text_04">bbe0f907c7321010100f2f3bf4c260b2</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</application>
+        <file_path/>
+        <instance_id>ff0f938adb83e450431011f8489619b9</instance_id>
+        <instance_name>dev108296</instance_name>
+        <name>sys_sg_view_config_element_3320a32f1b49b0100137ea03b24bcbcc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>text_04_element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-06 05:52:55</sys_created_on><sys_id>3320a32f1b49b0100137ea03b24bcbcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>text_04_element</sys_name><sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package><sys_policy/><sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope><sys_update_name>sys_sg_view_config_element_3320a32f1b49b0100137ea03b24bcbcc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-06 05:52:55</sys_updated_on><view_config display_value="rem tab View Config">101cb40b1b0d30100137ea03b24bcb01</view_config><view_template_slot display_value="text_04">bbe0f907c7321010100f2f3bf4c260b2</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>1056711075</payload_hash>
+        <record_name>text_04_element</record_name>
+        <reverted_from/>
+        <source>34b9e24e1b8d38100137ea03b24bcbec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 05:52:55</sys_created_on>
+        <sys_id>ff20a32f1b49b0100137ea03b24bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a7a6063a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 05:52:55</sys_updated_on>
+        <type>View Config Element</type>
+        <update_guid>3b20a32f4c49b0101627e9f2e04048cd</update_guid>
+        <update_guid_history>3b20a32f4c49b0101627e9f2e04048cd:1056711075</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 09:19:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>14d5e8cab6a541c0a699031ab1f6e400</sys_id>
+        <sys_metadata>3320a32f1b49b0100137ea03b24bcbcc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_04_element</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_scope_delete display_value="">042de74b3585431180d1ddd4215d5209</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_3320a32f1b49b0100137ea03b24bcbcc</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_3320a32f1b49b0100137ea03b24bcbcc">ff20a32f1b49b0100137ea03b24bcbcd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 09:19:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

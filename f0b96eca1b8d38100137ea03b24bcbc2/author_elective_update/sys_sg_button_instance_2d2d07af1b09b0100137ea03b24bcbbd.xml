@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Delete Swipe - Remote Distance - All Nearby Users - List">a12d07af1b09b0100137ea03b24bcbba</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete - Remote Distance - All Nearby Users - List</name>
+        <order/>
+        <parent>6d2d07af1b09b0100137ea03b24bcbac</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 04:29:45</sys_created_on>
+        <sys_id>2d2d07af1b09b0100137ea03b24bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete - Remote Distance - All Nearby Users - List</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2d2d07af1b09b0100137ea03b24bcbbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 04:29:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=2d2d07af1b09b0100137ea03b24bcbbd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</application>
+        <file_path/>
+        <instance_id>ff0f938adb83e450431011f8489619b9</instance_id>
+        <instance_name>dev108296</instance_name>
+        <name>sys_sg_button_instance_2d2d07af1b09b0100137ea03b24bcbbd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Delete Swipe - Remote Distance - All Nearby Users - List">a12d07af1b09b0100137ea03b24bcbba</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Delete</label><location>leading_swipe</location><name>Delete - Remote Distance - All Nearby Users - List</name><order/><parent>6d2d07af1b09b0100137ea03b24bcbac</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-06 04:29:45</sys_created_on><sys_id>2d2d07af1b09b0100137ea03b24bcbbd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete - Remote Distance - All Nearby Users - List</sys_name><sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package><sys_policy/><sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope><sys_update_name>sys_sg_button_instance_2d2d07af1b09b0100137ea03b24bcbbd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-06 04:29:45</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=2d2d07af1b09b0100137ea03b24bcbbd"/></record_update>]]></payload>
+        <payload_hash>-544085367</payload_hash>
+        <record_name>Delete - Remote Distance - All Nearby Users - List</record_name>
+        <reverted_from/>
+        <source>34b9e24e1b8d38100137ea03b24bcbec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 04:29:45</sys_created_on>
+        <sys_id>e52d07af1b09b0100137ea03b24bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a7a14405e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 04:29:45</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>212d07af1609b01039655e53492b7cc1</update_guid>
+        <update_guid_history>212d07af1609b01039655e53492b7cc1:-544085367</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 04:36:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>57fd19836ae9425f9f5d0d248fb1f021</sys_id>
+        <sys_metadata>2d2d07af1b09b0100137ea03b24bcbbd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete - Remote Distance - All Nearby Users - List</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_scope_delete display_value="">042de74b3585431180d1ddd4215d5209</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_2d2d07af1b09b0100137ea03b24bcbbd</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_2d2d07af1b09b0100137ea03b24bcbbd">e52d07af1b09b0100137ea03b24bcbc1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 04:36:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="emp dir Item Stream">70a3418f1b0d30100137ea03b24bcb88</item_stream>
+        <segment display_value="Item Stream Segment">38a3818f1b0d30100137ea03b24bcb10</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-04 05:11:59</sys_created_on>
+        <sys_id>70a3818f1b0d30100137ea03b24bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_70a3818f1b0d30100137ea03b24bcb13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-04 05:11:59</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

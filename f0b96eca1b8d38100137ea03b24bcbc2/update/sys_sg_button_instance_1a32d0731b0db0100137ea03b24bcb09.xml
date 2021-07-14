@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="to user department report">af0290731b0db0100137ea03b24bcbc2</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="icon-Information-Solid">1e32d0731b0db0100137ea03b24bcb05</icon>
+        <label>Users by Department</label>
+        <location>quick_action</location>
+        <name>Users by Department</name>
+        <order/>
+        <parent>ba0aaec61b4d38100137ea03b24bcb42</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 09:31:32</sys_created_on>
+        <sys_id>1a32d0731b0db0100137ea03b24bcb09</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Users by Department</sys_name>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1a32d0731b0db0100137ea03b24bcb09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 09:43:37</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a32d0731b0db0100137ea03b24bcb09"/>
+</record_update>

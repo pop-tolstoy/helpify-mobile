@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Helpify Mobile">ba0aaec61b4d38100137ea03b24bcb42</applet_launcher>
+        <order>20</order>
+        <quick_action_button display_value="Users by Department">1a32d0731b0db0100137ea03b24bcb09</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-06 09:31:32</sys_created_on>
+        <sys_id>d23294731b0db0100137ea03b24bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="helpify mobile" source="x_643435_helpify_m">f0b96eca1b8d38100137ea03b24bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="helpify mobile">f0b96eca1b8d38100137ea03b24bcbc2</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_d23294731b0db0100137ea03b24bcbf0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-06 09:31:32</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>
